@@ -20,5 +20,3 @@ export default function initAccordion() {
     );
   }
 }
-
-console.log("Dev Mode");
