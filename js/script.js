@@ -38,7 +38,6 @@ scrollAnima.init();
 initDropdownMenu();
 initMenuMobile();
 initFuncionamento();
-fetchBitcoin();
 
 
 fetchAnimais("../../animaisapi.json", ".numeros-grid");
